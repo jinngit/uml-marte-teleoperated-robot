@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <notation:Diagram xmi:id="_xTwUUPMBEd-YVs_b4QEADw" type="PapyrusUMLClassDiagram" name="platform" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_2ssH4PMBEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2sukIPMBEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2svLMPMBEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2svLMfMBEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2svLMvMBEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2svyQPMBEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2svyQfMBEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_61zSUPMBEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hy9DcPMCEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hy9DcfMCEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaExecHost"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hy9DcvMCEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hy9Dc_MCEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hy9DdPMCEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_2svyQvMBEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_2svyQ_MBEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_2svyRPMBEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_2svyRfMBEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2svyRvMBEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_2svyR_MBEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_2swZUPMBEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_2swZUfMBEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2swZUvMBEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_2swZU_MBEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_2swZVPMBEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_2swZVfMBEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2swZVvMBEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_2qTiQPMBEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2ssH4fMBEd-YVs_b4QEADw" x="10" y="10" width="231" height="96"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_ubnNEPMCEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ubobMPMCEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ubobMfMCEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ubobMvMCEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ubobM_MCEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ubobNPMCEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ubobNfMCEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_xllOsPMCEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9d_AEPMCEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9d_AEfMCEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaExecHost"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9d_nIPMCEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9d_nIfMCEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9d_nIvMCEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_ubobNvMCEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ubobN_MCEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ubobOPMCEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ubobOfMCEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ubobOvMCEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ubobO_MCEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ubobPPMCEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ubobPfMCEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ubobPvMCEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ubobP_MCEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ubobQPMCEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ubobQfMCEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ubobQvMCEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_ubWHUPMCEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ubnNEfMCEd-YVs_b4QEADw" x="275" y="10" width="246" height="96"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_HJjGcPMDEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HJjtgPMDEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HJjtgfMDEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HJjtgvMDEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HJjtg_MDEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HJkUkPMDEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HJkUkfMDEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NLsPEPMDEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R7xS4PMDEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R7xS4fMDEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R7xS4vMDEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R7xS4_MDEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R7xS5PMDEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_HJkUkvMDEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_HJkUk_MDEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_HJkUlPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_HJkUlfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HJkUlvMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_HJkUl_MDEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_HJkUmPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_HJkUmfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HJkUmvMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_HJkUm_MDEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_HJkUnPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_HJkUnfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HJkUnvMDEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_HJWSIPMDEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HJjGcfMDEd-YVs_b4QEADw" x="10" y="125" width="231" height="86"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_XlfUcPMDEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Xlf7gPMDEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Xlf7gfMDEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Xlf7gvMDEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Xlf7g_MDEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_XlgikPMDEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_XlgikfMDEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cO7kwPMDEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gMV1gPMDEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gMV1gfMDEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gMWckPMDEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gMWckfMDEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gMWckvMDEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_XlgikvMDEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Xlgik_MDEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_XlgilPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_XlgilfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XlgilvMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Xlgil_MDEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_XlgimPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_XlgimfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XlgimvMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Xlgim_MDEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_XlginPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_XlginfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XlginvMDEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_XlWKgPMDEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XlfUcfMDEd-YVs_b4QEADw" x="10" y="225" width="231" height="71"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iYEtQPMDEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_iYFUUPMDEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_iYFUUfMDEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_iYFUUvMDEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_iYFUU_MDEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_iYFUVPMDEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_iYFUVfMDEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_lWBsIPMDEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pcFikPMDEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pcFikfMDEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pcFikvMDEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pcFik_MDEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pcFilPMDEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iYFUVvMDEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iYFUV_MDEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iYFUWPMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iYFUWfMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYFUWvMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iYF7YPMDEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iYF7YfMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iYF7YvMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYF7Y_MDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iYF7ZPMDEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iYF7ZfMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iYF7ZvMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYF7Z_MDEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_iX7jUPMDEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYEtQfMDEd-YVs_b4QEADw" x="10" y="320" width="231" height="86"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_sUmAwPMDEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sUmn0PMDEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sUmn0fMDEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sUmn0vMDEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sUmn0_MDEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sUmn1PMDEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sUmn1fMDEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_wcoNIPMDEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Kd5sPMDEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Kd5sfMDEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Kd5svMDEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Kd5s_MDEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Kd5tPMDEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_sUmn1vMDEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_sUmn1_MDEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_sUmn2PMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_sUmn2fMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sUmn2vMDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_sUnO4PMDEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_sUnO4fMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_sUnO4vMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sUnO4_MDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_sUnO5PMDEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_sUnO5fMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_sUnO5vMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sUnO5_MDEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_sUc20PMDEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sUmAwfMDEd-YVs_b4QEADw" x="275" y="125" width="246" height="86"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_5WiNEPMDEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5WjbMPMDEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5WjbMfMDEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5WjbMvMDEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5WjbM_MDEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5WjbNPMDEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5WjbNfMDEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8r3xMPMDEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-LFhMPMDEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-LFhMfMDEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-LFhMvMDEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-LGIQPMDEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-LGIQfMDEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5WjbNvMDEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_5WkCQPMDEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_5WkCQfMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_5WkCQvMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5WkCQ_MDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_5WkCRPMDEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_5WkCRfMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_5WkCRvMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5WkCR_MDEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_5WkpUPMDEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_5WkpUfMDEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_5WkpUvMDEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5WkpU_MDEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_5WVYwPMDEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5WiNEfMDEd-YVs_b4QEADw" x="275" y="225" width="246" height="86"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_BdEPUPMEEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_BdEPUvMEEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_BdE2YPMEEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_BdE2YfMEEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_BdE2YvMEEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_BdE2Y_MEEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_BdE2ZPMEEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_D10PYPMEEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FrZQ8PMEEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FrZQ8fMEEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FrZQ8vMEEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FrZQ8_MEEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FrZQ9PMEEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_BdE2ZfMEEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_BdE2ZvMEEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_BdE2Z_MEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_BdE2aPMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BdE2afMEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_BdE2avMEEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_BdE2a_MEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_BdE2bPMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BdE2bfMEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_BdE2bvMEEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_BdE2b_MEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_BdFdcPMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BdFdcfMEEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_Bc0-wPMEEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BdEPUfMEEd-YVs_b4QEADw" x="275" y="320" width="246" height="86"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_H9i5wPMEEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_H9jg0PMEEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H9jg0fMEEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_H9jg0vMEEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H9l9EPMEEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_H9mkIPMEEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_H9mkIfMEEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_KguoMPMEEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LrgZQPMEEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LrgZQfMEEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_Foundations::GRM::SchedulableResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LrgZQvMEEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LrgZQ_MEEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LrgZRPMEEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_H9mkIvMEEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_H9mkI_MEEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_H9mkJPMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_H9mkJfMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H9mkJvMEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_H9mkJ_MEEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_H9mkKPMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_H9mkKfMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H9mkKvMEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_H9mkK_MEEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_H9mkLPMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_H9mkLfMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H9mkLvMEEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_H9U3UPMEEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H9i5wfMEEd-YVs_b4QEADw" x="275" y="415" width="246" height="86"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_xTwUUfMBEd-YVs_b4QEADw"/>
+    <element xmi:type="uml:Model" href="teleoperated_robot.uml#_uI_BcPMBEd-YVs_b4QEADw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_2bhYAPMEEd-YVs_b4QEADw" type="PapyrusUMLClassDiagram" name="platform_can_bus" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_4EmOoPMEEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4Em1sPMEEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4Em1sfMEEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4Em1svMEEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4Em1s_MEEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4Em1tPMEEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4Em1tfMEEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8v2c0PMEEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wzx4wPMFEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wzx4wfMFEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaCommHost"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wzx4wvMFEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wzx4w_MFEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wzx4xPMFEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4Em1tvMEEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4Em1t_MEEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4Em1uPMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4Em1ufMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4Em1uvMEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4EncwPMEEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4EncwfMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4EncwvMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4Encw_MEEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4EncxPMEEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4EncxfMEEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4EncxvMEEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4Encx_MEEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_4EXlIPMEEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4EmOofMEEd-YVs_b4QEADw" x="20" y="15" width="231" height="196"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_bgCzkPMFEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bgDaoPMFEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bgDaofMFEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bgDaovMFEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bgDao_MFEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bgDapPMFEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bgDapfMFEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_e9ULsPMFEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_m9E3kPMFEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_m9E3kfMFEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaCommChannel"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_m9E3kvMFEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_m9E3k_MFEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_m9FeoPMFEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_bgDapvMFEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bgDap_MFEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bgDaqPMFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bgDaqfMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bgDaqvMFEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bgDaq_MFEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bgDarPMFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bgDarfMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bgDarvMFEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bgEBsPMFEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bgEBsfMFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bgEBsvMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bgEBs_MFEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_bf1_QPMFEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bgCzkfMFEd-YVs_b4QEADw" x="275" y="15" width="231" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_oB5KkPMFEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oB6YsPMFEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oB6YsfMFEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oB6YsvMFEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oB6Ys_MFEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_oB6YtPMFEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_oB6_wPMFEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vG_lAPMFEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xgP7YPMFEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xgP7YfMFEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaCommChannel"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xgP7YvMFEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xgP7Y_MFEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xgP7ZPMFEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_oB6_wfMFEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_oB6_wvMFEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_oB6_w_MFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_oB6_xPMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oB6_xfMFEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_oB6_xvMFEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_oB6_x_MFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_oB6_yPMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oB6_yfMFEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_oB6_yvMFEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_oB6_y_MFEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_oB6_zPMFEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oB6_zfMFEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_oBlokPMFEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oB5KkfMFEd-YVs_b4QEADw" x="275" y="115" width="231" height="96"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_2bhYAfMEEd-YVs_b4QEADw"/>
+    <element xmi:type="uml:Model" href="teleoperated_robot.uml#_uI_BcPMBEd-YVs_b4QEADw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_AvMKwPMGEd-YVs_b4QEADw" type="PapyrusUMLClassDiagram" name="logic" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_Bu4GIPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Bu4tMPMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Bu4tMfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Bu4tMvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Bu4tM_MGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Bu5UQPMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Bu5UQfMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Bu5UQvMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Bu5UQ_MGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Bu5URPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Bu5URfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bu5URvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Bu5UR_MGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_GEATUPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_J9cDAPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mkIEsPMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mkIEsfMIEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mkIEsvMIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mkIEs_MIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mkIEtPMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_GCiTsPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GEATUfMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_H2JmYPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LK-NIPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2PDsgPMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2PDsgfMIEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2PETkPMIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2PETkfMIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2PETkvMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_H16V0PMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_H2KNcPMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Bu5USPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Bu5USfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bu5USvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Bu5US_MGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Bu5UTPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Bu5UTfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bu5UTvMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_BulyQPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bu4GIfMGEd-YVs_b4QEADw" x="15" y="10" width="231" height="96"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Pc7KgPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Pc7xkPMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pc7xkfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Pc7xkvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pc8YoPMGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Pc8YofMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pc8YovMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Pc8_sPMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Pc8_sfMGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Pc8_svMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Pc8_s_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pc8_tPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Pc8_tfMGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_Qw7wEPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_WgMY8PMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7TB8sPMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7TB8sfMIEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7TB8svMIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7TB8s_MIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7TB8tPMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_Qwm_8PMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Qw7wEfMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_TeoscPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_XWHUUPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GZLxwPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GZLxwfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GZLxwvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GZLxw_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GZLxxPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_TebREPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TeoscfMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Pc8_tvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Pc8_t_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pc8_uPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Pc8_ufMGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Pc8_uvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Pc8_u_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pc8_vPMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_PcnBcPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pc7KgfMGEd-YVs_b4QEADw" x="15" y="115" width="231" height="91"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_ZQ8CQPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZQ8pUPMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZQ8pUfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZQ8pUvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZQ8pU_MGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZQ8pVPMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZQ8pVfMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_ZQ8pVvMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ZQ8pV_MGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ZQ8pWPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ZQ8pWfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZQ9QYPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ZQ9QYfMGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_asYFgPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cPSpwPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NGpvUPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NGpvUfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NGpvUvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NGpvU_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NGpvVPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_asIN4PMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_asYFgfMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ZQ9QYvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ZQ9QY_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZQ9QZPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ZQ9QZfMGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_ZQ9QZvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_ZQ9QZ_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZQ9QaPMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_ZQn5MPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZQ8CQfMGEd-YVs_b4QEADw" x="15" y="215" width="231" height="66"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_d8HX8PMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_d8H_APMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_d8H_AfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_d8H_AvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_d8H_A_MGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_d8ImEPMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_d8ImEfMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_d8ImEvMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_d8ImE_MGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_d8ImFPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_d8ImFfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d8ImFvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_d8ImF_MGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_fDblUPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_gBqvMPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RX13sPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RX13sfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RX13svMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RX13s_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RX13tPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_fDM70PMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_fDblUfMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_d8ImGPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_d8ImGfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d8ImGvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_d8ImG_MGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_d8ImHPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_d8ImHfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d8ImHvMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_d7vkgPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d8HX8fMGEd-YVs_b4QEADw" x="15" y="290" width="231" height="66"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_izDRsPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_izD4wPMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_izD4wfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_izD4wvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_izD4w_MGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_izEf0PMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_izEf0fMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_izEf0vMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_izEf0_MGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_izEf1PMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_izEf1fMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_izEf1vMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_izEf1_MGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_jbfKsPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_p-m5cPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_U_OOEPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_U_OOEfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_U_OOEvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_U_OOE_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_U_OOFPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_jbOsAPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_jbfKsfMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_nXRDwPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_qx27UPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZGciIPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZGciIfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZGciIvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZGciI_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZGciJPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_nWu4QPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_nXRDwfMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_oZrjAPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_rmigkPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hKWuMPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hKWuMfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hKXVQPMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hKXVQfMJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hKXVQvMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_oZcScPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_oZrjAfMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_izEf2PMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_izEf2fMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_izEf2vMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_izEf2_MGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_izEf3PMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_izEf3fMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_izEf3vMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_iyppEPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_izDRsfMGEd-YVs_b4QEADw" x="15" y="365" width="231" height="111"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_vZt3QPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vZueUfMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vZueUvMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vZvFYPMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vZvFYfMGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vZvFYvMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vZvFY_MGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vZvFZPMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_vZvFZfMGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_vZvFZvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_vZvFZ_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vZvFaPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_vZvFafMGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_xsJz8PMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0ZwpsPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kfFOUPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kfFOUfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kfFOUvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kfFOU_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kfFOVPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_xrxZcPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_xsJz8fMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_yrZqcPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1JvVIPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6Sw8PMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6Sw8fMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6Sw8vMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6Sw8_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6Sw9PMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_yrGvgPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_yrZqcfMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_vZvFavMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_vZvFa_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vZvFbPMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_vZvFbfMGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_vZvFbvMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_vZvFb_MGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vZvFcPMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_vZRyYPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vZueUPMGEd-YVs_b4QEADw" x="275" y="10" width="231" height="96"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4C6hsPMGEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4C7IwPMGEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4C7IwfMGEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4C7IwvMGEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4C7Iw_MGEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_4C7IxPMGEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4C7IxfMGEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4C7IxvMGEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4C7Ix_MGEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4C7IyPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4C7IyfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4C7IyvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4C7Iy_MGEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_6UkbQPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_9-fvUPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ssVjoPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ssWKsPMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ssWKsfMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ssWKsvMJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ssWKs_MJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_6UTVgPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6UkbQfMGEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_8NKUkPMGEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_-u3cUPMGEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wqW4YPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wqXfcPMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wqXfcfMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wqXfcvMJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wqXfc_MJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_8M09YPMGEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_8NK7oPMGEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4C7IzPMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4C7IzfMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4C7IzvMGEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4C7Iz_MGEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4C7I0PMGEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4C7I0fMGEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4C7I0vMGEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_4ChgIPMGEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4C6hsfMGEd-YVs_b4QEADw" x="275" y="115" width="231" height="91"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Cf-WcPMHEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Cf-9gPMHEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Cf-9gfMHEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Cf-9gvMHEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Cf-9g_MHEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Cf-9hPMHEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Cf-9hfMHEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Cf-9hvMHEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Cf-9h_MHEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Cf-9iPMHEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Cf-9ifMHEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Cf-9ivMHEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Cf_kkPMHEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_EzAJAPMHEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_H1nlcPMHEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4j_HEPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4j_HEfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4j_HEvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4j_HE_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_4j_HFPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_EyvqUPMHEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_EzAJAfMHEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_F7lhsPMHEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Jsm8QPMHEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8Q-WMPMJEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8Q-WMfMJEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8Q-WMvMJEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8Q-WM_MJEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8Q-WNPMJEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_F7SmwPMHEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_F7lhsfMHEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Cf_kkfMHEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Cf_kkvMHEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Cf_kk_MHEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Cf_klPMHEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Cf_klfMHEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Cf_klvMHEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Cf_kl_MHEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_CfiRkPMHEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Cf-WcfMHEd-YVs_b4QEADw" x="275" y="215" width="231" height="91"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_LdDJsPMIEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LdDJsvMIEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LdDwwPMIEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LdDwwfMIEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LdDwwvMIEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LdDww_MIEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LdDwxPMIEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_QXzMcPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QXzMcfMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QXzMcvMIEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaSharedResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QXzMc_MIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QXzMdPMIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_QXzMdfMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_LdDwxfMIEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_LdDwxvMIEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_LdDwx_MIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_LdDwyPMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdDwyfMIEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_LdDwyvMIEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_NVnN0PMIEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ROxQsPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UI7CwPMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UI7CwfMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UI7CwvMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UI7Cw_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UI7CxPMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_NVU58PMIEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_NVnN0fMIEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_OTwREPMIEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SOMtYPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WnldkPMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WnldkfMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WnldkvMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Wnldk_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WnldlPMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_OTgZcPMIEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_OTwREfMIEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_LdDwy_MIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_LdDwzPMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdDwzfMIEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_LdDwzvMIEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_LdDwz_MIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_LdDw0PMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdDw0fMIEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_LciMUPMIEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LdDJsfMIEd-YVs_b4QEADw" x="530" y="10" width="231" height="106"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_VEpWEPMIEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VEp9IPMIEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VEp9IfMIEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VEp9IvMIEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VEp9I_MIEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VEqkMPMIEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VEqkMfMIEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cwzwgPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cwzwgfMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cwzwgvMIEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaSharedResource"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cwzwg_MIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cwzwhPMIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cwzwhfMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VEqkMvMIEd-YVs_b4QEADw" type="5029">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Zg77MPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bNHwMPMIEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bNHwMfMIEd-YVs_b4QEADw" key="StereotypeList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bNHwMvMIEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bNHwM_MIEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bNHwNPMIEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+        </eAnnotations>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_VEqkM_MIEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VEqkNPMIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VEqkNfMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEqkNvMIEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_VEqkN_MIEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_XOR8EPMIEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ahrmgPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgE68PMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgE68fMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgE68vMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgE68_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgE69PMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_XN790PMIEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_XOR8EfMIEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_X3J58PMIEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_eHRNIPMIEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hF0-EPMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hF0-EfMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hF0-EvMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hF0-E_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hF0-FPMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_X26CUPMIEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_X3J58fMIEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VEqkOPMIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VEqkOfMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEqkOvMIEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_VEqkO_MIEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VEqkPPMIEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VEqkPfMIEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEqkPvMIEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_VEQUgPMIEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEpWEfMIEd-YVs_b4QEADw" x="530" y="125" width="231" height="101"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_jScmoPMKEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jSdNsPMKEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jSdNsfMKEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jSdNsvMKEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jSdNs_MKEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jSdNtPMKEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jSdNtfMKEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_jSdNtvMKEd-YVs_b4QEADw" type="5029"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jSdNt_MKEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jSd0wPMKEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jSd0wfMKEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jSd0wvMKEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jSd0w_MKEd-YVs_b4QEADw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_k5xJwPMKEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ncF8kPMKEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zGnqAPMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zGnqAfMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zGnqAvMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zGnqA_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zGnqBPMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_k5e14PMKEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k5xJwfMKEd-YVs_b4QEADw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_l20A0PMKEd-YVs_b4QEADw" type="3013" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vckaIPMKEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_349-sPMKEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_349-sfMKEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_349-svMKEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_349-s_MKEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_34-lwPMKEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Operation" href="teleoperated_robot.uml#_l2bmUPMKEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_l20A0fMKEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jSd0xPMKEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jSd0xfMKEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jSd0xvMKEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jSd0x_MKEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jSd0yPMKEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jSd0yfMKEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jSd0yvMKEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_jSC-APMKEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jScmofMKEd-YVs_b4QEADw" x="530" y="370" width="241" height="96"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_AvMKwfMGEd-YVs_b4QEADw"/>
+    <element xmi:type="uml:Model" href="teleoperated_robot.uml#_uI_BcPMBEd-YVs_b4QEADw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_H-8jwPMLEd-YVs_b4QEADw" type="PapyrusUMLClassDiagram" name="transactions" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_JAL-UPMLEd-YVs_b4QEADw" type="2008" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_JAL-UvMLEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_JANMcPMLEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_JANMcfMLEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_JANMcvMLEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_JANzgPMLEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_JANzgfMLEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SaShQPMLEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eyMGgDniEeC4MsdXcpE-ZA" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eyMGgTniEeC4MsdXcpE-ZA" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaAnalysisContext"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eyMGgjniEeC4MsdXcpE-ZA" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eyMGgzniEeC4MsdXcpE-ZA" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eyMGhDniEeC4MsdXcpE-ZA" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_JANzgvMLEd-YVs_b4QEADw" type="5029">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_gmIxIPiLEd-LBIu0U1O4-g" source="Stereotype_Annotation">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jqt8cPiLEd-LBIu0U1O4-g" key="StereotypeWithQualifiedNameList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jqt8cfiLEd-LBIu0U1O4-g" key="StereotypeList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jqt8cviLEd-LBIu0U1O4-g" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jqt8c_iLEd-LBIu0U1O4-g" key="PropStereoDisplay" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jqt8dPiLEd-LBIu0U1O4-g" key="StereotypePropertyLocation" value="Compartment"/>
+        </eAnnotations>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JANzg_MLEd-YVs_b4QEADw" type="7017">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JANzhPMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JANzhfMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JANzhvMLEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JANzh_MLEd-YVs_b4QEADw" type="7018">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JANziPMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JANzifMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JANzivMLEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JANzi_MLEd-YVs_b4QEADw" type="7019">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JANzjPMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JANzjfMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JANzjvMLEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Class" href="teleoperated_robot.uml#_I_sPEPMLEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JAL-UfMLEd-YVs_b4QEADw" x="15" y="10" width="266" height="161"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_H-8jwfMLEd-YVs_b4QEADw"/>
+    <element xmi:type="uml:Model" href="teleoperated_robot.uml#_uI_BcPMBEd-YVs_b4QEADw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_1MlbgPMLEd-YVs_b4QEADw" type="PapyrusUMLActivityDiagram" name="Activity_Execute_Commnad" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_1Mn3wPMLEd-YVs_b4QEADw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1MriIPMLEd-YVs_b4QEADw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1MriIfMLEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1MriIvMLEd-YVs_b4QEADw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1MriI_MLEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1MsJMPMLEd-YVs_b4QEADw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1MsJMfMLEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_BWsn8PMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NXchIPPJEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NXchIfPJEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NXchIvPJEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NXchI_PJEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NXchJPPJEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1MsJMvMLEd-YVs_b4QEADw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1MsJNPMLEd-YVs_b4QEADw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_1MsJNfMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_1MsJNvMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1MsJN_MLEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1MsJOPMLEd-YVs_b4QEADw" type="7002">
+        <children xmi:type="notation:Shape" xmi:id="_PnRKkPMMEd-YVs_b4QEADw" type="3002" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VK-DsPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUyv4PPPEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUzW8PPPEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaLatencyObs"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUzW8fPPEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUzW8vPPEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUzW8_PPEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Constraint" href="teleoperated_robot.uml#_PmzQgPMMEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_PnRKkfMMEd-YVs_b4QEADw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_1MsJOfMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_1MsJOvMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1MsJO_MLEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1MsJPPMLEd-YVs_b4QEADw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_1MsJPfMLEd-YVs_b4QEADw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_1MsJPvMLEd-YVs_b4QEADw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1MsJP_MLEd-YVs_b4QEADw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_1MsJQPMLEd-YVs_b4QEADw" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="__YKesPMLEd-YVs_b4QEADw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_gZVZkPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_i0-VkPMMEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_i0-8oPMMEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_i0-8ofMMEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_i0-8ovMMEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_i0-8o_MMEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="__YLFxfMLEd-YVs_b4QEADw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="__YLs0PMLEd-YVs_b4QEADw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="__YLFwPMLEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="__YLFwfMLEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="__YLFwvMLEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="__YLFw_MLEd-YVs_b4QEADw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#__VrycPMLEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__YLFxPMLEd-YVs_b4QEADw" x="161" y="10"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_F2o-APMMEd-YVs_b4QEADw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F2plEPMMEd-YVs_b4QEADw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_F2plEfMMEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F2plEvMMEd-YVs_b4QEADw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_F2plE_MMEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F2plFPMMEd-YVs_b4QEADw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_F2plFfMMEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_lCf9EPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_76pZgPMMEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_76pZgfMMEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_76qAkPMMEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_76qAkfMMEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_76qAkvMMEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_F2plFvMMEd-YVs_b4QEADw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_F2o-AfMMEd-YVs_b4QEADw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_F2B6APMMEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F2o-AvMMEd-YVs_b4QEADw" x="81" y="65" width="176" height="70"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_GwJ_8PMMEd-YVs_b4QEADw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GwKnAPMMEd-YVs_b4QEADw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GwKnAfMMEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GwLOEPMMEd-YVs_b4QEADw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GwLOEfMMEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GwLOEvMMEd-YVs_b4QEADw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GwLOE_MMEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_mbE5kPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_A2aI4PMNEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_A2aI4fMNEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_A2aI4vMNEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_A2av8PMNEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_A2av8fMNEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_GwLOFPMMEd-YVs_b4QEADw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_GwJ_8fMMEd-YVs_b4QEADw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_Gv124PMMEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GwJ_8vMMEd-YVs_b4QEADw" x="81" y="181" width="176" height="75"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_HdHzoPMMEd-YVs_b4QEADw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HdIasPMMEd-YVs_b4QEADw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HdIasfMMEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HdIasvMMEd-YVs_b4QEADw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HdIas_MMEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HdIatPMMEd-YVs_b4QEADw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HdJBwPMMEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tlG3UPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GB1r8PMNEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GB1r8fMNEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GB1r8vMNEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GB1r8_MNEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GB1r9PMNEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HdJBwfMMEd-YVs_b4QEADw" type="5003">
+            <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_shihgPMMEd-YVs_b4QEADw" source="Stereotype_Annotation">
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_shihgfMMEd-YVs_b4QEADw" key="StereotypeWithQualifiedNameList" value=""/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_shihgvMMEd-YVs_b4QEADw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_shihg_MMEd-YVs_b4QEADw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_shihhPMMEd-YVs_b4QEADw" key="PropStereoDisplay" value=""/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_shihhfMMEd-YVs_b4QEADw" key="StereotypePropertyLocation" value="Compartment"/>
+            </eAnnotations>
+          </children>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_HdHzofMMEd-YVs_b4QEADw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_Hcx1YPMMEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HdHzovMMEd-YVs_b4QEADw" x="81" y="285" width="176" height="85"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_ILk1EPMMEd-YVs_b4QEADw" type="3005" fontName="Sans" fontHeight="10">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ILmDMPMMEd-YVs_b4QEADw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ILmDMfMMEd-YVs_b4QEADw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ILmDMvMMEd-YVs_b4QEADw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ILmDM_MMEd-YVs_b4QEADw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ILmDNPMMEd-YVs_b4QEADw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ILmDNfMMEd-YVs_b4QEADw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_ILmDNvMMEd-YVs_b4QEADw" type="5081">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ILmDN_MMEd-YVs_b4QEADw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_ILk1EfMMEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ILk1EvMMEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_ILk1E_MMEd-YVs_b4QEADw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_ILk1FPMMEd-YVs_b4QEADw"/>
+          <element xmi:type="uml:ActivityFinalNode" href="teleoperated_robot.uml#_ILJ-UPMMEd-YVs_b4QEADw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ILk1FfMMEd-YVs_b4QEADw" x="161" y="406"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1MsJQfMLEd-YVs_b4QEADw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_1MlbgvMLEd-YVs_b4QEADw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1Mn3wfMLEd-YVs_b4QEADw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_1MlbgfMLEd-YVs_b4QEADw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_1MlbgvMLEd-YVs_b4QEADw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_K3EK8PMMEd-YVs_b4QEADw" type="4004" source="__YKesPMLEd-YVs_b4QEADw" target="_F2o-APMMEd-YVs_b4QEADw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_K3GnMPMMEd-YVs_b4QEADw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_K3GnMfMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_K3GnMvMMEd-YVs_b4QEADw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_K3HOQPMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_K3HOQfMMEd-YVs_b4QEADw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_K3HOQvMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_K3HOQ_MMEd-YVs_b4QEADw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_K3HORPMMEd-YVs_b4QEADw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_K3EK8fMMEd-YVs_b4QEADw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_K0cUwPMMEd-YVs_b4QEADw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_K3EK8vMMEd-YVs_b4QEADw" points="[1, 7, 0, -58]$[1, 57, 0, -8]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_K36fgPMMEd-YVs_b4QEADw" id="(0.5060240963855421,0.1568627450980392)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_L5sFkPMMEd-YVs_b4QEADw" type="4004" source="_F2o-APMMEd-YVs_b4QEADw" target="_GwJ_8PMMEd-YVs_b4QEADw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_L5ssoPMMEd-YVs_b4QEADw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L5tTsPMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_L5tTsfMMEd-YVs_b4QEADw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L5tTsvMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_L5tTs_MMEd-YVs_b4QEADw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L5tTtPMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_L5tTtfMMEd-YVs_b4QEADw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L5tTtvMMEd-YVs_b4QEADw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_L5sFkfMMEd-YVs_b4QEADw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_L5USIPMMEd-YVs_b4QEADw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_L5sFkvMMEd-YVs_b4QEADw" points="[0, 3, -3, -47]$[3, 42, 0, -8]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L6bscPMMEd-YVs_b4QEADw" id="(0.5060240963855421,0.9411764705882353)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L6bscfMMEd-YVs_b4QEADw" id="(0.5087719298245614,0.14285714285714285)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_M2zOEPMMEd-YVs_b4QEADw" type="4004" source="_GwJ_8PMMEd-YVs_b4QEADw" target="_HdHzoPMMEd-YVs_b4QEADw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_M20cMPMMEd-YVs_b4QEADw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_M20cMfMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_M21DQPMMEd-YVs_b4QEADw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_M21DQfMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_M21DQvMMEd-YVs_b4QEADw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_M21DQ_MMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_M21DRPMMEd-YVs_b4QEADw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_M21DRfMMEd-YVs_b4QEADw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_M2zOEfMMEd-YVs_b4QEADw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_M2azkPMMEd-YVs_b4QEADw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_M2zOEvMMEd-YVs_b4QEADw" points="[2, 4, 0, -41]$[2, 38, 0, -7]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M3fxoPMMEd-YVs_b4QEADw" id="(0.5029239766081871,0.9285714285714286)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M3fxofMMEd-YVs_b4QEADw" id="(0.5,0.11475409836065574)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_NlNMMPMMEd-YVs_b4QEADw" type="4004" source="_HdHzoPMMEd-YVs_b4QEADw" target="_ILk1EPMMEd-YVs_b4QEADw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_NlNzQPMMEd-YVs_b4QEADw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NlNzQfMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NlOaUPMMEd-YVs_b4QEADw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NlOaUfMMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NlOaUvMMEd-YVs_b4QEADw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NlOaU_MMEd-YVs_b4QEADw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NlOaVPMMEd-YVs_b4QEADw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NlOaVfMMEd-YVs_b4QEADw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_NlNMMfMMEd-YVs_b4QEADw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_Nky8gPMMEd-YVs_b4QEADw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NlNMMvMMEd-YVs_b4QEADw" points="[-1, 7, -5, -84]$[14, 89, 10, -2]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Nl8zEPMMEd-YVs_b4QEADw" id="(0.5170454545454546,0.8852459016393442)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_wxMPMPPEEd-LL6OIpJiGHQ" type="PapyrusUMLActivityDiagram" name="Activity_Report_Process" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_wxl30PPEEd-LL6OIpJiGHQ" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_wxntAPPEEd-LL6OIpJiGHQ" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wxntAfPEEd-LL6OIpJiGHQ" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_wxoUEPPEEd-LL6OIpJiGHQ" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wxoUEfPEEd-LL6OIpJiGHQ" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_wxoUEvPEEd-LL6OIpJiGHQ" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_wxoUE_PEEd-LL6OIpJiGHQ" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_410M8PPEEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZpDuoPPHEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZpDuofPHEd-LL6OIpJiGHQ" key="StereotypeList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZpDuovPHEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZpDuo_PHEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZpDupPPHEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wxo7IPPEEd-LL6OIpJiGHQ" type="5001">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_dVYPYPPHEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cFPyUPPJEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cFPyUfPJEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cFPyUvPJEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cFPyU_PJEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cFPyVPPJEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+        </eAnnotations>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wxo7IvPEEd-LL6OIpJiGHQ" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_wxo7I_PEEd-LL6OIpJiGHQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_wxo7JPPEEd-LL6OIpJiGHQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxo7JfPEEd-LL6OIpJiGHQ"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wxo7JvPEEd-LL6OIpJiGHQ" type="7002">
+        <children xmi:type="notation:Shape" xmi:id="_H7E74PPFEd-LL6OIpJiGHQ" type="3002" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MJYIUPPFEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e4SegPPFEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e4SegfPFEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaLatencyObs"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e4SegvPFEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e4Seg_PFEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e4SehPPFEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Constraint" href="teleoperated_robot.uml#_H6wy0PPFEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_H7E74fPFEd-LL6OIpJiGHQ"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_wxo7J_PEEd-LL6OIpJiGHQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_wxo7KPPEEd-LL6OIpJiGHQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxo7KfPEEd-LL6OIpJiGHQ"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wxo7KvPEEd-LL6OIpJiGHQ" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_wxo7K_PEEd-LL6OIpJiGHQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_wxo7LPPEEd-LL6OIpJiGHQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxo7LfPEEd-LL6OIpJiGHQ"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wxo7LvPEEd-LL6OIpJiGHQ" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="_24oukPPEEd-LL6OIpJiGHQ" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_6MXwMPPEEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bsTqsPPFEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bsTqsfPFEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bsTqsvPFEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bsURwPPFEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bsURwfPFEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_24pVoPPEEd-LL6OIpJiGHQ" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_24pVofPEEd-LL6OIpJiGHQ" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_24oukfPEEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_24oukvPEEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_24ouk_PEEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_24oulPPEEd-LL6OIpJiGHQ"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_23b0sPPEEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_24oulfPEEd-LL6OIpJiGHQ" x="116" y="1"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_7hJKwPPEEd-LL6OIpJiGHQ" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7hJKw_PEEd-LL6OIpJiGHQ" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7hJx0PPEEd-LL6OIpJiGHQ" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7hJx0fPEEd-LL6OIpJiGHQ" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7hJx0vPEEd-LL6OIpJiGHQ" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7hJx0_PEEd-LL6OIpJiGHQ" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7hJx1PPEEd-LL6OIpJiGHQ" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_QXr70PPFEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pEpk0PPFEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pEpk0fPFEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pEpk0vPFEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pEpk0_PFEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pEpk1PPFEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_7hJx1fPEEd-LL6OIpJiGHQ" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_7hJKwfPEEd-LL6OIpJiGHQ"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_7gviIPPEEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7hJKwvPEEd-LL6OIpJiGHQ" x="21" y="51" width="226" height="86"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_8hUOUPPEEd-LL6OIpJiGHQ" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8hU1YPPEEd-LL6OIpJiGHQ" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8hU1YfPEEd-LL6OIpJiGHQ" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8hU1YvPEEd-LL6OIpJiGHQ" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8hVccPPEEd-LL6OIpJiGHQ" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8hVccfPEEd-LL6OIpJiGHQ" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8hVccvPEEd-LL6OIpJiGHQ" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RPQdAPPFEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uYAU0PPFEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uYAU0fPFEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uYAU0vPFEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uYAU0_PFEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uYAU1PPFEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_8hVcc_PEEd-LL6OIpJiGHQ" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_8hUOUfPEEd-LL6OIpJiGHQ"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_8g-QEPPEEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8hUOUvPEEd-LL6OIpJiGHQ" x="21" y="191" width="231" height="96"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_9XjSwPPEEd-LL6OIpJiGHQ" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_9Xj50PPEEd-LL6OIpJiGHQ" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9Xj50fPEEd-LL6OIpJiGHQ" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_9Xj50vPEEd-LL6OIpJiGHQ" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9Xj50_PEEd-LL6OIpJiGHQ" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_9Xj51PPEEd-LL6OIpJiGHQ" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_9Xj51fPEEd-LL6OIpJiGHQ" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SAbbQPPFEd-LL6OIpJiGHQ" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_z94_QPPFEd-LL6OIpJiGHQ" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_z94_QfPFEd-LL6OIpJiGHQ" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_z96NYPPFEd-LL6OIpJiGHQ" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_z96NYfPFEd-LL6OIpJiGHQ" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_z96NYvPFEd-LL6OIpJiGHQ" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_9Xj51vPEEd-LL6OIpJiGHQ" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_9XjSwfPEEd-LL6OIpJiGHQ"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_9XNUgPPEEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9XjSwvPEEd-LL6OIpJiGHQ" x="21" y="316" width="236" height="81"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_DhoPYPPFEd-LL6OIpJiGHQ" type="3005" fontName="Sans" fontHeight="10">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DhpdgPPFEd-LL6OIpJiGHQ" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DhpdgfPFEd-LL6OIpJiGHQ" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DhpdgvPFEd-LL6OIpJiGHQ" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Dhpdg_PFEd-LL6OIpJiGHQ" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DhpdhPPFEd-LL6OIpJiGHQ" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DhpdhfPFEd-LL6OIpJiGHQ" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_DhpdhvPFEd-LL6OIpJiGHQ" type="5081">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Dhpdh_PFEd-LL6OIpJiGHQ" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_DhoPYfPFEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_DhoPYvPFEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_DhoPY_PFEd-LL6OIpJiGHQ"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_DhoPZPPFEd-LL6OIpJiGHQ"/>
+          <element xmi:type="uml:ActivityFinalNode" href="teleoperated_robot.uml#_DhS4MPPFEd-LL6OIpJiGHQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DhoPZfPFEd-LL6OIpJiGHQ" x="121" y="446"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxo7L_PEEd-LL6OIpJiGHQ"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_wxOEYPPEEd-LL6OIpJiGHQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxl30fPEEd-LL6OIpJiGHQ"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_wxMPMfPEEd-LL6OIpJiGHQ"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_wxOEYPPEEd-LL6OIpJiGHQ"/>
+    <edges xmi:type="notation:Connector" xmi:id="_FSgXIPPFEd-LL6OIpJiGHQ" type="4004" source="_24oukPPEEd-LL6OIpJiGHQ" target="_7hJKwPPEEd-LL6OIpJiGHQ" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_FShlQPPFEd-LL6OIpJiGHQ" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FShlQfPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FSiMUPPFEd-LL6OIpJiGHQ" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FSiMUfPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FSiMUvPFEd-LL6OIpJiGHQ" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FSiMU_PFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FSiMVPPFEd-LL6OIpJiGHQ" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FSiMVfPFEd-LL6OIpJiGHQ" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_FSgXIfPFEd-LL6OIpJiGHQ" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_FRlxIPPFEd-LL6OIpJiGHQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FSgXIvPFEd-LL6OIpJiGHQ" points="[-1, 7, 2, -47]$[28, 128, 31, 74]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FTNhwPPFEd-LL6OIpJiGHQ" id="(0.4424778761061947,0.13953488372093023)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_F4Ty4PPFEd-LL6OIpJiGHQ" type="4004" source="_7hJKwPPEEd-LL6OIpJiGHQ" target="_8hUOUPPEEd-LL6OIpJiGHQ" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_F4UZ8PPFEd-LL6OIpJiGHQ" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F4UZ8fPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_F4UZ8vPFEd-LL6OIpJiGHQ" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F4UZ8_PFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_F4UZ9PPFEd-LL6OIpJiGHQ" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F4UZ9fPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_F4UZ9vPFEd-LL6OIpJiGHQ" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_F4VBAPPFEd-LL6OIpJiGHQ" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_F4Ty4fPFEd-LL6OIpJiGHQ" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_F390oPPFEd-LL6OIpJiGHQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_F4Ty4vPFEd-LL6OIpJiGHQ" points="[-1, 8, 0, -62]$[-4, 62, -3, -8]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F5Z_EPPFEd-LL6OIpJiGHQ" id="(0.4557522123893805,0.9069767441860465)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F5amIPPFEd-LL6OIpJiGHQ" id="(0.44155844155844154,0.08333333333333333)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_GdpUkPPFEd-LL6OIpJiGHQ" type="4004" source="_8hUOUPPEEd-LL6OIpJiGHQ" target="_9XjSwPPEEd-LL6OIpJiGHQ" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Gdp7oPPFEd-LL6OIpJiGHQ" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Gdp7ofPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Gdp7ovPFEd-LL6OIpJiGHQ" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Gdp7o_PFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Gdp7pPPFEd-LL6OIpJiGHQ" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Gdp7pfPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Gdp7pvPFEd-LL6OIpJiGHQ" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GdqisPPFEd-LL6OIpJiGHQ" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_GdpUkfPFEd-LL6OIpJiGHQ" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_GdUkcPPFEd-LL6OIpJiGHQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GdpUkvPFEd-LL6OIpJiGHQ" points="[2, 13, 0, -49]$[34, 123, 32, 61]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GeRmsPPFEd-LL6OIpJiGHQ" id="(0.45454545454545453,0.8645833333333334)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GeRmsfPFEd-LL6OIpJiGHQ" id="(0.4533898305084746,0.24691358024691357)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_HLUS4PPFEd-LL6OIpJiGHQ" type="4004" source="_9XjSwPPEEd-LL6OIpJiGHQ" target="_DhoPYPPFEd-LL6OIpJiGHQ" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_HLWIEPPFEd-LL6OIpJiGHQ" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLWIEfPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_HLWIEvPFEd-LL6OIpJiGHQ" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLWIE_PFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_HLWIFPPFEd-LL6OIpJiGHQ" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLWvIPPFEd-LL6OIpJiGHQ" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_HLWvIfPFEd-LL6OIpJiGHQ" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLWvIvPFEd-LL6OIpJiGHQ" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_HLUS4fPFEd-LL6OIpJiGHQ" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_HK3m8PPFEd-LL6OIpJiGHQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HLUS4vPFEd-LL6OIpJiGHQ" points="[0, 9, -2, -60]$[4, 79, 2, 10]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HL9MEPPFEd-LL6OIpJiGHQ" id="(0.461864406779661,0.8888888888888888)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_glQLEPPPEd-Wr_bmNeAxrw" type="PapyrusUMLActivityDiagram" name="Activity_Control_Servos_Trans" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_glqawPPPEd-Wr_bmNeAxrw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_glro4PPPEd-Wr_bmNeAxrw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_glsP8PPPEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_glsP8fPPEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_glsP8vPPEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_gls3APPPEd-Wr_bmNeAxrw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_gls3AfPPEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_kEkxoPPPEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kEkxofPPEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kElYsPPPEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kElYsfPPEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kElYsvPPEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kElYs_PPEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gls3AvPPEd-Wr_bmNeAxrw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gls3BPPPEd-Wr_bmNeAxrw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gls3BfPPEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gls3BvPPEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gls3B_PPEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gls3CPPPEd-Wr_bmNeAxrw" type="7002">
+        <children xmi:type="notation:Shape" xmi:id="_wFVNwPPPEd-Wr_bmNeAxrw" type="3002" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_yNNgQPPPEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDrI0PPQEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDrI0fPQEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaLatencyObs"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDrI0vPQEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDrI0_PQEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VDrI1PPQEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <element xmi:type="uml:Constraint" href="teleoperated_robot.uml#_wFBEsPPPEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_wFVNwfPPEd-Wr_bmNeAxrw"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gls3CfPPEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gls3CvPPEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gls3C_PPEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gls3DPPPEd-Wr_bmNeAxrw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gls3DfPPEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gls3DvPPEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gls3D_PPEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_glteEPPPEd-Wr_bmNeAxrw" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="_n6ViQPPPEd-Wr_bmNeAxrw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_z44-8PPPEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YvkLwPPQEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YvkLwfPQEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YvkLwvPQEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YvkLw_PQEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YvkLxPPQEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_n6WJUPPPEd-Wr_bmNeAxrw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_n6WJUfPPEd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_n6ViQfPPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_n6ViQvPPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_n6ViQ_PPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_n6ViRPPPEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_n41GYPPPEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n6ViRfPPEd-Wr_bmNeAxrw" x="98" y="12"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_orkK4PPPEd-Wr_bmNeAxrw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_orkx8PPPEd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_orkx8fPPEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_orkx8vPPEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_orlZAPPPEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_orlZAfPPEd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_orlZAvPPEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_AIMNYPPQEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eEx88PPQEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eEx88fPQEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eEx88vPQEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eEx88_PQEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eEx89PPQEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_orlZA_PPEd-Wr_bmNeAxrw" type="5003">
+            <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2UuIMPPPEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2UuIMfPPEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2UuIMvPPEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2UuIM_PPEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2UuINPPPEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+              <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2UuINfPPEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+            </eAnnotations>
+          </children>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_orkK4fPPEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_oqxgsPPPEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_orkK4vPPEd-Wr_bmNeAxrw" x="16" y="61" width="201" height="86"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_q_t-0PPPEd-Wr_bmNeAxrw" type="3005" fontName="Sans" fontHeight="10">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_q_t-1vPPEd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q_ul4PPPEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_q_ul4fPPEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q_ul4vPPEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_q_ul4_PPEd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q_ul5PPPEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_q_ul5fPPEd-Wr_bmNeAxrw" type="5081">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_q_ul5vPPEd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_q_t-0fPPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_q_t-0vPPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_q_t-0_PPEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_q_t-1PPPEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:ActivityFinalNode" href="teleoperated_robot.uml#_q_XZgPPPEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q_t-1fPPEd-Wr_bmNeAxrw" x="91" y="185"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_glteEfPPEd-Wr_bmNeAxrw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_gleNgPPPEd-Wr_bmNeAxrw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_glqawfPPEd-Wr_bmNeAxrw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_glQLEfPPEd-Wr_bmNeAxrw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_gleNgPPPEd-Wr_bmNeAxrw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_stOpgPPPEd-Wr_bmNeAxrw" type="4004" source="_n6ViQPPPEd-Wr_bmNeAxrw" target="_orkK4PPPEd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_stP3oPPPEd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_stQesPPPEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_stQesfPPEd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_stQesvPPEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_stQes_PPEd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_stQetPPPEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_stQetfPPEd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_stQetvPPEd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_stOpgfPPEd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_ssPLAPPPEd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_stOpgvPPEd-Wr_bmNeAxrw" points="[-2, 7, 0, -46]$[-7, 41, -5, -12]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_suDv8PPPEd-Wr_bmNeAxrw" id="(0.43781094527363185,0.13953488372093023)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_NTXOMPPQEd-Wr_bmNeAxrw" type="4004" source="_orkK4PPPEd-Wr_bmNeAxrw" target="_q_t-0PPPEd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_NTYcUPPQEd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NTYcUfPQEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NTYcUvPQEd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NTYcU_PQEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NTYcVPPQEd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NTYcVfPQEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_NTYcVvPQEd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NTYcV_PQEd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_NTXOMfPQEd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_NS7JUPPQEd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NTXOMvPQEd-Wr_bmNeAxrw" points="[-1, 9, 2, -43]$[-1, 68, 2, 16]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NT-5QPPQEd-Wr_bmNeAxrw" id="(0.43781094527363185,0.8953488372093024)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NT-5QfPQEd-Wr_bmNeAxrw" id="(0.45454545454545453,0.22727272727272727)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_OL_p4PPREd-Wr_bmNeAxrw" type="PapyrusUMLActivityDiagram" name="Activity_Station_Send_Driver" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_OMCtMPPREd-Wr_bmNeAxrw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OMDUQPPREd-Wr_bmNeAxrw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OMDUQfPREd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OMD7UPPREd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OMD7UfPREd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OMD7UvPREd-Wr_bmNeAxrw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OMD7U_PREd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OMD7VPPREd-Wr_bmNeAxrw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OMD7VvPREd-Wr_bmNeAxrw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_OMD7V_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_OMD7WPPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OMD7WfPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OMD7WvPREd-Wr_bmNeAxrw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_OMD7W_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_OMD7XPPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OMD7XfPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OMD7XvPREd-Wr_bmNeAxrw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_OMD7X_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_OMD7YPPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OMD7YfPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OMEiYPPREd-Wr_bmNeAxrw" type="7004">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SXINkPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SXINkfPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SXINkvPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SXINk_PREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SXINlPPREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SXINlfPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+        </eAnnotations>
+        <children xmi:type="notation:Shape" xmi:id="_UzPDoPPREd-Wr_bmNeAxrw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bz9UYPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgj7sPPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgj7sfPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgkiwPPREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgkiwfPREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cgkiwvPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_UzPqsPPREd-Wr_bmNeAxrw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UzPqsfPREd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_UzPDofPREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UzPDovPREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_UzPDo_PREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_UzPDpPPREd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_Uy66kPPREd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UzPDpfPREd-Wr_bmNeAxrw" x="113" y="17"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_VwevAPPREd-Wr_bmNeAxrw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VwfWEvPREd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VwfWE_PREd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vwf9IPPREd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vwf9IfPREd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Vwf9IvPREd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Vwf9I_PREd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_dse8QPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_keSnQPPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_keSnQfPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_keTOUPPREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_keTOUfPREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_keTOUvPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Vwf9JPPREd-Wr_bmNeAxrw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_VwfWEPPREd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_VwLNAPPREd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VwfWEfPREd-Wr_bmNeAxrw" x="36" y="96" width="186" height="96"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OMEiYfPREd-Wr_bmNeAxrw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_OL_p4vPREd-Wr_bmNeAxrw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OMCtMfPREd-Wr_bmNeAxrw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_OL_p4fPREd-Wr_bmNeAxrw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_OL_p4vPREd-Wr_bmNeAxrw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_WyygkPPREd-Wr_bmNeAxrw" type="4004" source="_UzPDoPPREd-Wr_bmNeAxrw" target="_VwevAPPREd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_WyzHoPPREd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WyzHofPREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_WyzHovPREd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WyzHo_PREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_WyzusPPREd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_WyzusfPREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_WyzusvPREd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Wyzus_PREd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_WyygkfPREd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_WyZfAPPREd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WyygkvPREd-Wr_bmNeAxrw" points="[0, 8, 0, -70]$[17, 167, 17, 89]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WzY9gPPREd-Wr_bmNeAxrw" id="(0.45698924731182794,0.07291666666666667)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_pNoEMPPREd-Wr_bmNeAxrw" type="PapyrusUMLActivityDiagram" name="Activity_Station_Receive_Driver" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_pNpSUPPREd-Wr_bmNeAxrw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pNp5YPPREd-Wr_bmNeAxrw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pNp5YfPREd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pNp5YvPREd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pNp5Y_PREd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pNp5ZPPREd-Wr_bmNeAxrw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pNp5ZfPREd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sJ2kwPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sJ2kwfPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sJ2kwvPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sJ2kw_PREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sJ2kxPPREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sJ2kxfPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNqgcPPREd-Wr_bmNeAxrw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNqgcvPREd-Wr_bmNeAxrw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_pNqgc_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_pNqgdPPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pNqgdfPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNqgdvPREd-Wr_bmNeAxrw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_pNqgd_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_pNqgePPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pNqgefPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNqgevPREd-Wr_bmNeAxrw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_pNqge_PREd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_pNqgfPPREd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pNqgffPREd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNqgfvPREd-Wr_bmNeAxrw" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="_tKTVIPPREd-Wr_bmNeAxrw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_w6Q_wPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zVbaoPPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zVbaofPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zVbaovPREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zVbao_PREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zVbapPPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_tKTVJvPREd-Wr_bmNeAxrw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_tKTVJ_PREd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_tKTVIfPREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_tKTVIvPREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_tKTVI_PREd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_tKTVJPPREd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_tJ-lAPPREd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tKTVJfPREd-Wr_bmNeAxrw" x="103" y="13"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_uX3UcPPREd-Wr_bmNeAxrw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uX37gPPREd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uX37gfPREd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uX37gvPREd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uX37g_PREd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_uX37hPPREd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_uX37hfPREd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_26v7gPPREd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6GamQPPREd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6GamQfPREd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6GamQvPREd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6GamQ_PREd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6GamRPPREd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_uX4ikPPREd-Wr_bmNeAxrw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_uX3UcfPREd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_uXjLYPPREd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uX3UcvPREd-Wr_bmNeAxrw" x="31" y="76" width="171" height="86"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pNqgf_PREd-Wr_bmNeAxrw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_pNoEMvPREd-Wr_bmNeAxrw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pNpSUfPREd-Wr_bmNeAxrw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_pNoEMfPREd-Wr_bmNeAxrw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_pNoEMvPREd-Wr_bmNeAxrw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_vXygYPPREd-Wr_bmNeAxrw" type="4004" source="_tKTVIPPREd-Wr_bmNeAxrw" target="_uX3UcPPREd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_vXzHcPPREd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vXzugPPREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vXzugfPREd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vXzugvPREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vXzug_PREd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vXzuhPPREd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vXzuhfPREd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vXzuhvPREd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_vXygYfPREd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_vXaF4PPREd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vXygYvPREd-Wr_bmNeAxrw" points="[-2, 7, 0, -63]$[-7, 55, -5, -15]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vYcnsPPREd-Wr_bmNeAxrw" id="(0.45614035087719296,0.1744186046511628)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_B1KaoPPSEd-Wr_bmNeAxrw" type="PapyrusUMLActivityDiagram" name="Activity_Controller_Send_Driver" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_B1LowPPSEd-Wr_bmNeAxrw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_B1MP0PPSEd-Wr_bmNeAxrw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B1MP0fPSEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_B1MP0vPSEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B1MP0_PSEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_B1MP1PPSEd-Wr_bmNeAxrw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B1M24PPSEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_EwBpQPPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EwBpQfPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EwBpQvPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EwBpQ_PSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EwBpRPPSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EwBpRfPSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B1M24fPSEd-Wr_bmNeAxrw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B1M24_PSEd-Wr_bmNeAxrw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B1M25PPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B1M25fPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B1M25vPSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B1M25_PSEd-Wr_bmNeAxrw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B1M26PPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B1M26fPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B1M26vPSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B1M26_PSEd-Wr_bmNeAxrw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B1M27PPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B1M27fPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B1M27vPSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B1M27_PSEd-Wr_bmNeAxrw" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="_Fw1mAPPSEd-Wr_bmNeAxrw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LPdK0PPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NV6hAPPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NV7IEPPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NV7IEfPSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NV7IEvPSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NV7IE_PSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Fw2NEPPSEd-Wr_bmNeAxrw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Fw2NEfPSEd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_Fw1mAfPSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Fw1mAvPSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_Fw1mA_PSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Fw1mBPPSEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_FwgO0PPSEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fw1mBfPSEd-Wr_bmNeAxrw" x="93" y="19"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_GlqVMPPSEd-Wr_bmNeAxrw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Glq8QPPSEd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Glq8QfPSEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Glq8QvPSEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Glq8Q_PSEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GlrjUPPSEd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GlrjUfPSEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OUgQMPPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ScxGEPPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ScxtIPPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ScxtIfPSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ScxtIvPSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ScxtI_PSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_GlrjUvPSEd-Wr_bmNeAxrw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_GlqVMfPSEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_GlJX0PPSEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GlqVMvPSEd-Wr_bmNeAxrw" x="11" y="71" width="201" height="96"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B1M28PPSEd-Wr_bmNeAxrw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_B1KaovPSEd-Wr_bmNeAxrw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B1LowfPSEd-Wr_bmNeAxrw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_B1KaofPSEd-Wr_bmNeAxrw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_B1KaovPSEd-Wr_bmNeAxrw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_H1lE8PPSEd-Wr_bmNeAxrw" type="4004" source="_Fw1mAPPSEd-Wr_bmNeAxrw" target="_GlqVMPPSEd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_H1lsAPPSEd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H1lsAfPSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_H1lsAvPSEd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H1lsA_PSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_H1mTEPPSEd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H1mTEfPSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_H1mTEvPSEd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H1mTE_PSEd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_H1lE8fPSEd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_H1LcUPPSEd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_H1lE8vPSEd-Wr_bmNeAxrw" points="[0, 8, 0, -51]$[-5, 44, -5, -15]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H2OlMPPSEd-Wr_bmNeAxrw" id="(0.44776119402985076,0.15625)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_VtFAQPPSEd-Wr_bmNeAxrw" type="PapyrusUMLActivityDiagram" name="Activity_Controller_Receive_Driver" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_VtGOYPPSEd-Wr_bmNeAxrw" type="2001" fontName="Sans" fontHeight="10" lineColor="0">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VtG1cPPSEd-Wr_bmNeAxrw" source="ShadowFigure">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VtG1cfPSEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VtG1cvPSEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VtG1c_PSEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_VtHcgPPSEd-Wr_bmNeAxrw" source="QualifiedName">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_VtHcgfPSEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_YMrPMPPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YMr2QPPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YMr2QfPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaEndtoEndFlow"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YMr2QvPSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YMr2Q_PSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YMr2RPPSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VtHcgvPSEd-Wr_bmNeAxrw" type="5001"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VtHchPPSEd-Wr_bmNeAxrw" type="7001">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VtHchfPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VtHchvPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtHch_PSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VtHciPPSEd-Wr_bmNeAxrw" type="7002">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VtHcifPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VtHcivPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtHci_PSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VtHcjPPSEd-Wr_bmNeAxrw" type="7003">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_VtHcjfPSEd-Wr_bmNeAxrw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_VtHcjvPSEd-Wr_bmNeAxrw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtHcj_PSEd-Wr_bmNeAxrw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_VtHckPPSEd-Wr_bmNeAxrw" type="7004">
+        <children xmi:type="notation:Shape" xmi:id="_ZCeOwPPSEd-Wr_bmNeAxrw" type="3004" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ctRFgPPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e80tUPPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e81UYPPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::GQAM::GaWorkloadEvent"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e81UYfPSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e81UYvPSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_e81UY_PSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_ZCeOxvPSEd-Wr_bmNeAxrw" type="5080">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ZCeOx_PSEd-Wr_bmNeAxrw" y="5"/>
+          </children>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_ZCeOwfPSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ZCeOwvPSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_ZCeOw_PSEd-Wr_bmNeAxrw"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_ZCeOxPPSEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:InitialNode" href="teleoperated_robot.uml#_ZCI3kPPSEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZCeOxfPSEd-Wr_bmNeAxrw" x="84" y="22"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_ZtZbEPPSEd-Wr_bmNeAxrw" type="3007" fontName="Sans" fontHeight="10" lineColor="0">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZtaCIPPSEd-Wr_bmNeAxrw" source="ShadowFigure">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZtaCIfPSEd-Wr_bmNeAxrw" key="ShadowFigure_Value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZtaCIvPSEd-Wr_bmNeAxrw" source="displayNameLabelIcon">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZtaCI_PSEd-Wr_bmNeAxrw" key="displayNameLabelIcon_value" value="false"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZtaCJPPSEd-Wr_bmNeAxrw" source="QualifiedName">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZtaCJfPSEd-Wr_bmNeAxrw" key="QualifiedNameDepth" value="1000"/>
+          </eAnnotations>
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ghoH8PPSEd-Wr_bmNeAxrw" source="Stereotype_Annotation">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kS294PPSEd-Wr_bmNeAxrw" key="StereotypeWithQualifiedNameList" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kS294fPSEd-Wr_bmNeAxrw" key="StereotypeList" value="MARTE::MARTE_AnalysisModel::SAM::SaStep"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kS294vPSEd-Wr_bmNeAxrw" key="Stereotype_Presentation_Kind" value="HorizontalStereo"/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kS294_PSEd-Wr_bmNeAxrw" key="PropStereoDisplay" value=""/>
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kS295PPSEd-Wr_bmNeAxrw" key="StereotypePropertyLocation" value="Compartment"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_ZtapMPPSEd-Wr_bmNeAxrw" type="5003"/>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_ZtZbEfPSEd-Wr_bmNeAxrw"/>
+          <element xmi:type="uml:OpaqueAction" href="teleoperated_robot.uml#_ZtF5EPPSEd-Wr_bmNeAxrw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZtZbEvPSEd-Wr_bmNeAxrw" x="16" y="91" width="196" height="91"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtHckfPSEd-Wr_bmNeAxrw"/>
+      </children>
+      <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_VtFAQvPSEd-Wr_bmNeAxrw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtGOYfPSEd-Wr_bmNeAxrw"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_VtFAQfPSEd-Wr_bmNeAxrw"/>
+    <element xmi:type="uml:Activity" href="teleoperated_robot.uml#_VtFAQvPSEd-Wr_bmNeAxrw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_aXXlIPPSEd-Wr_bmNeAxrw" type="4004" source="_ZCeOwPPSEd-Wr_bmNeAxrw" target="_ZtZbEPPSEd-Wr_bmNeAxrw" lineColor="0">
+      <children xmi:type="notation:DecorationNode" xmi:id="_aXYzQPPSEd-Wr_bmNeAxrw" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aXYzQfPSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_aXYzQvPSEd-Wr_bmNeAxrw" type="6004">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aXYzQ_PSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_aXYzRPPSEd-Wr_bmNeAxrw" type="6009">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aXYzRfPSEd-Wr_bmNeAxrw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_aXYzRvPSEd-Wr_bmNeAxrw" type="6011">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aXYzR_PSEd-Wr_bmNeAxrw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_aXXlIfPSEd-Wr_bmNeAxrw" fontName="Sans" fontHeight="10"/>
+      <element xmi:type="uml:ControlFlow" href="teleoperated_robot.uml#_aW-jkPPSEd-Wr_bmNeAxrw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aXXlIvPSEd-Wr_bmNeAxrw" points="[1, 7, 0, -69]$[53, 152, 52, 76]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aYC6kPPSEd-Wr_bmNeAxrw" id="(0.39285714285714285,0.16483516483516483)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
