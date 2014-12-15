@@ -426,7 +426,7 @@
   <GRM:SchedulableResource xmi:id="_KgGWEPMEEd-YVs_b4QEADw" base_Classifier="_H9U3UPMEEd-YVs_b4QEADw" host="_xlLmEPMCEd-YVs_b4QEADw">
     <schedParams>fp(priority=(value=31,source=meas))</schedParams>
   </GRM:SchedulableResource>
-  <SAM:SaCommHost xmi:id="_8vAIQPMEEd-YVs_b4QEADw" base_Classifier="_4EXlIPMEEd-YVs_b4QEADw" speedFactor="(value=0.8)" transmMode="halfDuplex" schedulableResources="_e8fFQPMFEd-YVs_b4QEADw _vE4FIPMFEd-YVs_b4QEADw">
+  <SAM:SaCommHost xmi:id="_8vAIQPMEEd-YVs_b4QEADw" base_Classifier="_4EXlIPMEEd-YVs_b4QEADw" speedFactor="(value=0.8)" elementSize="" transmMode="halfDuplex" schedulableResources="_e8fFQPMFEd-YVs_b4QEADw _vE4FIPMFEd-YVs_b4QEADw">
     <blockT>(worst=0.13875,unit=ms)</blockT>
     <packetT>(worst=80.0,best=80.0,unit=us)</packetT>
   </SAM:SaCommHost>
@@ -440,7 +440,7 @@
     <execTime>(worst=200.0,best=20.0,value=80.0,unit=ms)</execTime>
   </SAM:SaStep>
   <SAM:SaStep xmi:id="_LKivUPMGEd-YVs_b4QEADw" base_NamedElement="_H16V0PMGEd-YVs_b4QEADw" subUsage="_SNuMQPMIEd-YVs_b4QEADw _J9BMQPMGEd-YVs_b4QEADw _ROQ6YPMIEd-YVs_b4QEADw _9-CcUPMGEd-YVs_b4QEADw" base_BehavioralFeature="_H16V0PMGEd-YVs_b4QEADw"/>
-  <SAM:SaStep xmi:id="_WfxiMPMGEd-YVs_b4QEADw" base_NamedElement="_Qwm_8PMGEd-YVs_b4QEADw" base_BehavioralFeature="_Qwm_8PMGEd-YVs_b4QEADw">
+  <SAM:SaStep xmi:id="_WfxiMPMGEd-YVs_b4QEADw" base_NamedElement="_Qwm_8PMGEd-YVs_b4QEADw" base_BehavioralFeature="_Qwm_8PMGEd-YVs_b4QEADw" spareCap="">
     <execTime>(worst=10.0,best=5.0,value=6.5,unit=ms)</execTime>
   </SAM:SaStep>
   <SAM:SaStep xmi:id="_XVsdkPMGEd-YVs_b4QEADw" base_NamedElement="_TebREPMGEd-YVs_b4QEADw" subUsage="_-uXtEPMGEd-YVs_b4QEADw _SNuMQPMIEd-YVs_b4QEADw _ROQ6YPMIEd-YVs_b4QEADw _WfxiMPMGEd-YVs_b4QEADw" base_BehavioralFeature="_TebREPMGEd-YVs_b4QEADw"/>
@@ -456,7 +456,7 @@
   <SAM:SaStep xmi:id="_qxZoUPMGEd-YVs_b4QEADw" base_NamedElement="_nWu4QPMGEd-YVs_b4QEADw" base_BehavioralFeature="_nWu4QPMGEd-YVs_b4QEADw">
     <execTime>(worst=0.15,value=0.15,best=0.15,unit=ms)</execTime>
   </SAM:SaStep>
-  <SAM:SaStep xmi:id="_rmEmgPMGEd-YVs_b4QEADw" base_NamedElement="_oZcScPMGEd-YVs_b4QEADw" subUsage="_eGSVsPMIEd-YVs_b4QEADw _p-MpwPMGEd-YVs_b4QEADw _qxZoUPMGEd-YVs_b4QEADw _ahKpIPMIEd-YVs_b4QEADw" base_BehavioralFeature="_oZcScPMGEd-YVs_b4QEADw"/>
+  <SAM:SaStep xmi:id="_rmEmgPMGEd-YVs_b4QEADw" base_NamedElement="_oZcScPMGEd-YVs_b4QEADw" subUsage="_eGSVsPMIEd-YVs_b4QEADw _p-MpwPMGEd-YVs_b4QEADw _qxZoUPMGEd-YVs_b4QEADw _ahKpIPMIEd-YVs_b4QEADw" base_BehavioralFeature="_oZcScPMGEd-YVs_b4QEADw" spareCap=""/>
   <SAM:SaStep xmi:id="_0ZT9wPMGEd-YVs_b4QEADw" base_NamedElement="_xrxZcPMGEd-YVs_b4QEADw" base_BehavioralFeature="_xrxZcPMGEd-YVs_b4QEADw">
     <execTime>(worst=31.0,value=31.0,best=31.0,unit=us)</execTime>
   </SAM:SaStep>
@@ -489,20 +489,20 @@
   <SAM:SaStep xmi:id="_eGSVsPMIEd-YVs_b4QEADw" base_NamedElement="_X26CUPMIEd-YVs_b4QEADw" base_BehavioralFeature="_X26CUPMIEd-YVs_b4QEADw" sharedRes="_cvdFoPMIEd-YVs_b4QEADw">
     <execTime>(worst=20.0,value=4.2,best=4.0,unit=us)</execTime>
   </SAM:SaStep>
-  <SAM:SaStep xmi:id="_nbjxEPMKEd-YVs_b4QEADw" base_NamedElement="_k5e14PMKEd-YVs_b4QEADw" base_BehavioralFeature="_k5e14PMKEd-YVs_b4QEADw">
+  <SAM:SaStep xmi:id="_nbjxEPMKEd-YVs_b4QEADw" base_NamedElement="_k5e14PMKEd-YVs_b4QEADw" base_BehavioralFeature="_k5e14PMKEd-YVs_b4QEADw" spareCap="">
     <execTime>(worst=2.5,value=2.5,best=2.5,unit=us)</execTime>
   </SAM:SaStep>
   <SAM:SaStep xmi:id="_vb_LUPMKEd-YVs_b4QEADw" base_NamedElement="_l2bmUPMKEd-YVs_b4QEADw" base_BehavioralFeature="_l2bmUPMKEd-YVs_b4QEADw">
     <execTime>(worst=2.0,value=2.0,best=2.0,unit=us)</execTime>
   </SAM:SaStep>
-  <SAM:SaAnalysisContext xmi:id="_SYYcwPMLEd-YVs_b4QEADw" base_StructuredClassifier="_I_sPEPMLEd-YVs_b4QEADw" base_NamedElement="_I_sPEPMLEd-YVs_b4QEADw">
+  <SAM:SaAnalysisContext xmi:id="_SYYcwPMLEd-YVs_b4QEADw" base_StructuredClassifier="_I_sPEPMLEd-YVs_b4QEADw" base_NamedElement="_I_sPEPMLEd-YVs_b4QEADw" isSched="">
     <context>(tool=mast,options=(invoke=true,recoverResults=true,overwriteResults=false,overwriteOutputModel=false,modeID=''))</context>
   </SAM:SaAnalysisContext>
   <GQAM:GaLatencyObs xmi:id="_VKXmwPMMEd-YVs_b4QEADw" base_Constraint="_PmzQgPMMEd-YVs_b4QEADw">
     <latency>(value=1.0,unit=s)</latency>
   </GQAM:GaLatencyObs>
   <GQAM:GaWorkloadEvent xmi:id="_gYz1IPMMEd-YVs_b4QEADw" pattern="sporadic(minInterarrival=(value=1.0,unit=s))" base_NamedElement="__VrycPMLEd-YVs_b4QEADw"/>
-  <SAM:SaStep xmi:id="_lB3q8PMMEd-YVs_b4QEADw" base_NamedElement="_F2B6APMMEd-YVs_b4QEADw" subUsage="_LKivUPMGEd-YVs_b4QEADw" base_Action="_F2B6APMMEd-YVs_b4QEADw" concurRes="_NLYtEPMDEd-YVs_b4QEADw"/>
+  <SAM:SaStep xmi:id="_lB3q8PMMEd-YVs_b4QEADw" base_NamedElement="_F2B6APMMEd-YVs_b4QEADw" subUsage="_LKivUPMGEd-YVs_b4QEADw" base_Action="_F2B6APMMEd-YVs_b4QEADw" concurRes="_NLYtEPMDEd-YVs_b4QEADw" spareCap=""/>
   <SAM:SaStep xmi:id="_mad1kPMMEd-YVs_b4QEADw" base_NamedElement="_Gv124PMMEd-YVs_b4QEADw" subUsage="_H1K5gPMHEd-YVs_b4QEADw" base_Action="_Gv124PMMEd-YVs_b4QEADw" concurRes="_vE4FIPMFEd-YVs_b4QEADw"/>
   <SAM:SaStep xmi:id="_uy6uQPMMEd-YVs_b4QEADw" base_NamedElement="_Hcx1YPMMEd-YVs_b4QEADw" subUsage="_cO4aEPMGEd-YVs_b4QEADw" base_Action="_Hcx1YPMMEd-YVs_b4QEADw" concurRes="_D1JhAPMEEd-YVs_b4QEADw"/>
   <GQAM:GaLatencyObs xmi:id="_MI8qgPPFEd-LL6OIpJiGHQ" base_Constraint="_H6wy0PPFEd-LL6OIpJiGHQ">
@@ -512,17 +512,17 @@
   <SAM:SaStep xmi:id="_ROyi8PPFEd-LL6OIpJiGHQ" base_NamedElement="_8g-QEPPEEd-LL6OIpJiGHQ" subUsage="_JsKQUPMHEd-YVs_b4QEADw" base_Action="_8g-QEPPEEd-LL6OIpJiGHQ" concurRes="_e8fFQPMFEd-YVs_b4QEADw"/>
   <SAM:SaStep xmi:id="_R_7sAPPFEd-LL6OIpJiGHQ" base_NamedElement="_9XNUgPPEEd-LL6OIpJiGHQ" subUsage="_XVsdkPMGEd-YVs_b4QEADw" base_Action="_9XNUgPPEEd-LL6OIpJiGHQ" concurRes="_cOp38PMDEd-YVs_b4QEADw"/>
   <GQAM:GaWorkloadEvent xmi:id="_a8jBsPPFEd-LL6OIpJiGHQ" pattern="periodic(period=(value=100.0,unit=ms))" base_NamedElement="_23b0sPPEEd-LL6OIpJiGHQ"/>
-  <SAM:SaEndtoEndFlow xmi:id="_NXPFwPPJEd-LL6OIpJiGHQ" base_NamedElement="_1MlbgvMLEd-YVs_b4QEADw"/>
+  <SAM:SaEndtoEndFlow xmi:id="_NXPFwPPJEd-LL6OIpJiGHQ" isSched="" base_NamedElement="_1MlbgvMLEd-YVs_b4QEADw"/>
   <SAM:SaEndtoEndFlow xmi:id="_cFDlEPPJEd-LL6OIpJiGHQ" base_NamedElement="_wxOEYPPEEd-LL6OIpJiGHQ"/>
   <SAM:SaEndtoEndFlow xmi:id="_kD1x0PPPEd-Wr_bmNeAxrw" base_NamedElement="_gleNgPPPEd-Wr_bmNeAxrw"/>
   <GQAM:GaLatencyObs xmi:id="_yMJJQPPPEd-Wr_bmNeAxrw" base_Constraint="_wFBEsPPPEd-Wr_bmNeAxrw">
     <latency>(value=5.0,unit=ms)</latency>
   </GQAM:GaLatencyObs>
   <GQAM:GaWorkloadEvent xmi:id="_z4eIMPPPEd-Wr_bmNeAxrw" pattern="periodic(period=(value=5.0,unit=ms))" base_NamedElement="_n41GYPPPEd-Wr_bmNeAxrw"/>
-  <SAM:SaStep xmi:id="_BNTbUPPQEd-Wr_bmNeAxrw" base_NamedElement="_oqxgsPPPEd-Wr_bmNeAxrw" subUsage="_rmEmgPMGEd-YVs_b4QEADw" base_Action="_oqxgsPPPEd-Wr_bmNeAxrw" concurRes="_zJsQUPMDEd-YVs_b4QEADw"/>
+  <SAM:SaStep xmi:id="_BNTbUPPQEd-Wr_bmNeAxrw" base_NamedElement="_oqxgsPPPEd-Wr_bmNeAxrw" subUsage="_rmEmgPMGEd-YVs_b4QEADw" base_Action="_oqxgsPPPEd-Wr_bmNeAxrw" concurRes="_zJsQUPMDEd-YVs_b4QEADw" spareCap=""/>
   <SAM:SaEndtoEndFlow xmi:id="_SWsIsPPREd-Wr_bmNeAxrw" base_NamedElement="_OL_p4vPREd-Wr_bmNeAxrw"/>
   <GQAM:GaWorkloadEvent xmi:id="_bzfaUPPREd-Wr_bmNeAxrw" pattern="periodic(period=(value=13.875,unit=ms))" base_NamedElement="_Uy66kPPREd-Wr_bmNeAxrw"/>
-  <SAM:SaStep xmi:id="_dsBCMPPREd-Wr_bmNeAxrw" base_NamedElement="_VwLNAPPREd-Wr_bmNeAxrw" subUsage="_nbjxEPMKEd-YVs_b4QEADw" base_Action="_VwLNAPPREd-Wr_bmNeAxrw" concurRes="_lVe5kPMDEd-YVs_b4QEADw"/>
+  <SAM:SaStep xmi:id="_dsBCMPPREd-Wr_bmNeAxrw" base_NamedElement="_VwLNAPPREd-Wr_bmNeAxrw" subUsage="_nbjxEPMKEd-YVs_b4QEADw" base_Action="_VwLNAPPREd-Wr_bmNeAxrw" concurRes="_lVe5kPMDEd-YVs_b4QEADw" spareCap=""/>
   <SAM:SaEndtoEndFlow xmi:id="_sJTLIPPREd-Wr_bmNeAxrw" base_NamedElement="_pNoEMvPREd-Wr_bmNeAxrw"/>
   <GQAM:GaWorkloadEvent xmi:id="_w5m4cPPREd-Wr_bmNeAxrw" pattern="periodic(period=(value=13.875,unit=ms))" base_NamedElement="_tJ-lAPPREd-Wr_bmNeAxrw"/>
   <SAM:SaStep xmi:id="_25ySMPPREd-Wr_bmNeAxrw" base_NamedElement="_uXjLYPPREd-Wr_bmNeAxrw" subUsage="_vb_LUPMKEd-YVs_b4QEADw" base_Action="_uXjLYPPREd-Wr_bmNeAxrw" concurRes="_lVe5kPMDEd-YVs_b4QEADw"/>
